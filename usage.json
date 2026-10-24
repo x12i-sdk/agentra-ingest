@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-ingest",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-ingest",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-ingest",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/ingest",
+  "example": {
+    "title": "Ingest a mixed batch and inspect accepted and rejected events",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:29:37.885898+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "f488fd506ce8f695b18cedb87c20383dffae764bcfe62e44227b32e0621d4056",
+    "manifestSha256": "7c9f1800857c7c912617a109cc0d18a8b7ad41e7d9d64c5b5b72b9915f7cd249"
+  },
+  "validationFiles": {
+    "src/index.mjs": "f488fd506ce8f695b18cedb87c20383dffae764bcfe62e44227b32e0621d4056"
+  }
+}
